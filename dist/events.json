@@ -1,0 +1,58 @@
+[
+  {
+    "year": 1977,
+    "title": "Introduction of the First Personal Computer",
+    "description": "These early systems were more affordable and paved the way for the digital age, transforming various industries.",
+    "imageURL": "images/computer.png",
+    "category": "Technology"
+  },
+  {
+    "year": 1910,
+    "title": "Industrial Advancements",
+    "description": "This decade saw major industrial and technological growth across the globe.",
+    "imageURL": "images/computer.png",
+    "category": "Industry"
+  },
+  {
+    "year": 1920,
+    "title": "Jazz Age Begins",
+    "description": "The 1920s were marked by cultural change, music, and art revolutions.",
+    "imageURL": "images/computer.png",
+    "category": "Culture"
+  },
+  {
+    "year": 1930,
+    "title": "The Great Depression",
+    "description": "A severe worldwide economic depression that took place during the 1930s.",
+    "imageURL": "images/computer.png",
+    "category": "Economy"
+  },
+  {
+    "year": 1940,
+    "title": "World War II",
+    "description": "The most widespread and deadliest war in history.",
+    "imageURL": "images/computer.png",
+    "category": "History"
+  },
+  {
+    "year": 1969,
+    "title": "First Man on the Moon",
+    "description": "Neil Armstrong becomes the first human to walk on the Moon.",
+    "imageURL": "images/computer.png",
+    "category": "Space"
+  },
+  {
+    "year": 2000,
+    "title": "Dot-com Bubble Burst",
+    "description": "The crash of many internet-based companies.",
+    "imageURL": "images/computer.png",
+    "category": "Economy"
+  },
+  {
+    "year": 2020,
+    "title": "Global Pandemic",
+    "description": "The COVID-19 pandemic affected billions worldwide.",
+    "imageURL": "images/computer.png",
+    "category": "Health"
+  }
+]

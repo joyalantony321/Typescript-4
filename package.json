@@ -1,0 +1,17 @@
+{
+  "name": "vite-typescript-starter",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "compile": "tsc",
+    "build-ts": "tsc && cp -r public/* dist/ && cp Assignment1.html dist/index.html && cp styles.css dist/"
+  },
+  "devDependencies": {
+    "typescript": "^5.5.3",
+    "vite": "^5.4.2"
+  }
+}

@@ -1,0 +1,58 @@
+[
+  {
+    "year": 1977,
+    "title": "Introduction of the First Personal Computer",
+    "description": "These early systems were more affordable and paved the way for the digital age, transforming various industries.",
+    "imageURL": "https://images.pexels.com/photos/2582937/pexels-photo-2582937.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "category": "Technology"
+  },
+  {
+    "year": 1910,
+    "title": "Industrial Advancements",
+    "description": "This decade saw major industrial and technological growth across the globe.",
+    "imageURL": "https://images.pexels.com/photos/236705/pexels-photo-236705.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "category": "Industry"
+  },
+  {
+    "year": 1920,
+    "title": "Jazz Age Begins",
+    "description": "The 1920s were marked by cultural change, music, and art revolutions.",
+    "imageURL": "https://images.pexels.com/photos/164821/pexels-photo-164821.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "category": "Culture"
+  },
+  {
+    "year": 1930,
+    "title": "The Great Depression",
+    "description": "A severe worldwide economic depression that took place during the 1930s.",
+    "imageURL": "https://images.pexels.com/photos/259027/pexels-photo-259027.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "category": "Economy"
+  },
+  {
+    "year": 1940,
+    "title": "World War II",
+    "description": "The most widespread and deadliest war in history.",
+    "imageURL": "https://images.pexels.com/photos/163064/play-stone-network-networked-interactive-163064.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "category": "History"
+  },
+  {
+    "year": 1969,
+    "title": "First Man on the Moon",
+    "description": "Neil Armstrong becomes the first human to walk on the Moon.",
+    "imageURL": "https://images.pexels.com/photos/87651/earth-blue-planet-globe-planet-87651.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "category": "Space"
+  },
+  {
+    "year": 2000,
+    "title": "Dot-com Bubble Burst",
+    "description": "The crash of many internet-based companies.",
+    "imageURL": "https://images.pexels.com/photos/159888/pexels-photo-159888.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "category": "Economy"
+  },
+  {
+    "year": 2020,
+    "title": "Global Pandemic",
+    "description": "The COVID-19 pandemic affected billions worldwide.",
+    "imageURL": "https://images.pexels.com/photos/3992933/pexels-photo-3992933.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "category": "Health"
+  }
+]
