@@ -25,9 +25,7 @@ Open your browser at http://localhost:5173 (default port).
 npm run build
 ```
 🛠 Tech Stack
-TypeScript
-Vite (for dev + build)
-Vanilla JS/DOM APIs
-
-Vanilla JS/DOM APIs
+TypeScript.
+Vite (for dev + build).
+Vanilla JS/DOM APIs.
 
