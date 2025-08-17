@@ -13,18 +13,19 @@ styles.css → Global styles
 ```bash
 npm install
 ```
-###2. Run the development server
+### 2. Run the development server
 ```
 npm run dev
 ```
 This will start the Vite dev server.
 Open your browser at http://localhost:5173 (default port).
 
-###3. Build for production
+### 3. Build for production
 ```
 npm run build
 ```
 🛠 Tech Stack
+``
 TypeScript.
 Vite (for dev + build).
 Vanilla JS/DOM APIs.
